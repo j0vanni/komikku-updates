@@ -1,0 +1,2 @@
+# komikku-updates
+Update feed
